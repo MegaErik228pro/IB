@@ -1,0 +1,14 @@
+C:\Users\Erik\Desktop\3course\IB\LABA7\LABA7\LABA7\bin\Debug\net8.0\LABA7.exe
+C:\Users\Erik\Desktop\3course\IB\LABA7\LABA7\LABA7\bin\Debug\net8.0\LABA7.deps.json
+C:\Users\Erik\Desktop\3course\IB\LABA7\LABA7\LABA7\bin\Debug\net8.0\LABA7.runtimeconfig.json
+C:\Users\Erik\Desktop\3course\IB\LABA7\LABA7\LABA7\bin\Debug\net8.0\LABA7.dll
+C:\Users\Erik\Desktop\3course\IB\LABA7\LABA7\LABA7\bin\Debug\net8.0\LABA7.pdb
+C:\Users\Erik\Desktop\3course\IB\LABA7\LABA7\LABA7\obj\Debug\net8.0\LABA7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Erik\Desktop\3course\IB\LABA7\LABA7\LABA7\obj\Debug\net8.0\LABA7.AssemblyInfoInputs.cache
+C:\Users\Erik\Desktop\3course\IB\LABA7\LABA7\LABA7\obj\Debug\net8.0\LABA7.AssemblyInfo.cs
+C:\Users\Erik\Desktop\3course\IB\LABA7\LABA7\LABA7\obj\Debug\net8.0\LABA7.csproj.CoreCompileInputs.cache
+C:\Users\Erik\Desktop\3course\IB\LABA7\LABA7\LABA7\obj\Debug\net8.0\LABA7.dll
+C:\Users\Erik\Desktop\3course\IB\LABA7\LABA7\LABA7\obj\Debug\net8.0\refint\LABA7.dll
+C:\Users\Erik\Desktop\3course\IB\LABA7\LABA7\LABA7\obj\Debug\net8.0\LABA7.pdb
+C:\Users\Erik\Desktop\3course\IB\LABA7\LABA7\LABA7\obj\Debug\net8.0\LABA7.genruntimeconfig.cache
+C:\Users\Erik\Desktop\3course\IB\LABA7\LABA7\LABA7\obj\Debug\net8.0\ref\LABA7.dll

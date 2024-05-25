@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "WXYiNycF5AEMk+Ukd9Z9jGGA709h/7iVFRqLxW+eeJ8hiExovmf6t/l/ZZrQwx7DZABXR0ixiEOlv9AKu405og==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Erik\\Desktop\\3course\\IB\\LABA9\\LABA9\\LABA9\\LABA9.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Erik\\.nuget\\packages\\nunit\\4.1.0\\nunit.4.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}

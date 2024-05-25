@@ -1,0 +1,14 @@
+C:\Users\Erik\Desktop\3course\IB\LABA10\LABA10\LABA10\bin\Debug\net8.0\LABA10.exe
+C:\Users\Erik\Desktop\3course\IB\LABA10\LABA10\LABA10\bin\Debug\net8.0\LABA10.deps.json
+C:\Users\Erik\Desktop\3course\IB\LABA10\LABA10\LABA10\bin\Debug\net8.0\LABA10.runtimeconfig.json
+C:\Users\Erik\Desktop\3course\IB\LABA10\LABA10\LABA10\bin\Debug\net8.0\LABA10.dll
+C:\Users\Erik\Desktop\3course\IB\LABA10\LABA10\LABA10\bin\Debug\net8.0\LABA10.pdb
+C:\Users\Erik\Desktop\3course\IB\LABA10\LABA10\LABA10\obj\Debug\net8.0\LABA10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Erik\Desktop\3course\IB\LABA10\LABA10\LABA10\obj\Debug\net8.0\LABA10.AssemblyInfoInputs.cache
+C:\Users\Erik\Desktop\3course\IB\LABA10\LABA10\LABA10\obj\Debug\net8.0\LABA10.AssemblyInfo.cs
+C:\Users\Erik\Desktop\3course\IB\LABA10\LABA10\LABA10\obj\Debug\net8.0\LABA10.csproj.CoreCompileInputs.cache
+C:\Users\Erik\Desktop\3course\IB\LABA10\LABA10\LABA10\obj\Debug\net8.0\LABA10.dll
+C:\Users\Erik\Desktop\3course\IB\LABA10\LABA10\LABA10\obj\Debug\net8.0\refint\LABA10.dll
+C:\Users\Erik\Desktop\3course\IB\LABA10\LABA10\LABA10\obj\Debug\net8.0\LABA10.pdb
+C:\Users\Erik\Desktop\3course\IB\LABA10\LABA10\LABA10\obj\Debug\net8.0\LABA10.genruntimeconfig.cache
+C:\Users\Erik\Desktop\3course\IB\LABA10\LABA10\LABA10\obj\Debug\net8.0\ref\LABA10.dll
