@@ -1,0 +1,7 @@
+C:\Users\Erik\Desktop\3course\IB\LABA13\LABA13\LABA13\obj\Debug\LABA13.csproj.AssemblyReference.cache
+C:\Users\Erik\Desktop\3course\IB\LABA13\LABA13\LABA13\obj\Debug\LABA13.csproj.CoreCompileInputs.cache
+C:\Users\Erik\Desktop\3course\IB\LABA13\LABA13\LABA13\bin\Debug\LABA13.exe.config
+C:\Users\Erik\Desktop\3course\IB\LABA13\LABA13\LABA13\bin\Debug\LABA13.exe
+C:\Users\Erik\Desktop\3course\IB\LABA13\LABA13\LABA13\bin\Debug\LABA13.pdb
+C:\Users\Erik\Desktop\3course\IB\LABA13\LABA13\LABA13\obj\Debug\LABA13.exe
+C:\Users\Erik\Desktop\3course\IB\LABA13\LABA13\LABA13\obj\Debug\LABA13.pdb
